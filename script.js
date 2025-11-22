@@ -6,5 +6,7 @@
     document.removeEventListener("keydown", playMusic);
   }
 
+  playMusic()
+
   document.addEventListener("click", playMusic);
   document.addEventListener("keydown", playMusic);

@@ -1,0 +1,13 @@
+
+body {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+    background-color: #FFF5F6;
+}
+
+img {
+    height: 100vh;
+}
